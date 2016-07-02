@@ -1,0 +1,4 @@
+Some home page
+added css
+added js
+added some image
