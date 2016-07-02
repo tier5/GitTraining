@@ -2,3 +2,8 @@ Some home page
 added css
 added js
 added some image
+fixed js
+fixed css
+added section
+fixed links
+changed images
