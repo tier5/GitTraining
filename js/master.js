@@ -6,3 +6,4 @@ faq js function
 login js functions
 tagging js function
 fixed tagging js
+fixed tagging js
