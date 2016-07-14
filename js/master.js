@@ -7,3 +7,5 @@ login js functions
 tagging js function
 fixed tagging js
 fixed tagging js
+js for feat_one
+some js for feat_one by CEO
