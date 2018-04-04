@@ -1,3 +1,3 @@
-This is dev note for feature 2
-feature 2 has been added to dev
+This is dev note for feature2 (V1.0.2)
+feature 2 has been modified and added again!!
 dated 4/Apr/18 
